@@ -10,7 +10,8 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 38,
-    "versionPublish": "4.3.4"
+    "versionPublish": "4.3.4",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "page1.html": {
