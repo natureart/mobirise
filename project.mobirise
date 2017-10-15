@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-02_1453",
-    "currentPage": "HOME.html",
+    "currentPage": ".html.html.github.io.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -9,16 +9,17 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 46,
+    "uniqCompNum": 38,
     "versionPublish": "4.3.4",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "page1.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "CONTACT",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -150,7 +151,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "ABOUT",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -572,312 +573,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-c"
-        }
-      ]
-    },
-    "HOME.html": {
-      "settings": {
-        "title": "HOME",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.instagram.com/raymeart/\" data-toolbar=\"-mbrBtnMove\">INSTAGRAM</a></li> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\".html.html.github.io.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html#msg-box3-q\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "src": "images/logo.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "home",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-12"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/taak-rayme-2-2000x1250.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<span style=\"font-weight: normal;\">EMIN RAYME</span>",
-          "text": "Painter&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_styles": {
-            "H1": {
-              "color": "#000000",
-              "font-size": "80px",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            },
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_anchor": "header4-13"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#252525"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "RECENT WORKS",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-14"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": false,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#cccccc",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/plant3-1144x1430.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/plant3-1144x1430-800x1000.jpg",
-                "alt": "",
-                "caption": "Watercolor 2017",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/plant5-1299x1874.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/plant5-1299x1874-800x1154.jpg",
-                "alt": "",
-                "caption": "Oil painting 2017",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/plant2-1515x1969.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/plant2-1515x1969-799x1039.jpg",
-                "alt": "",
-                "caption": "Watercolor 2017",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/22199130-1725079717523323-1218273552-o-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/22199130-1725079717523323-1218273552-o-2000x1500-800x600.jpg",
-                "alt": "",
-                "caption": "Watercolor 2017",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/taak-rayme-2-2000x1250.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/taak-rayme-2-2000x1250-800x500.jpg",
-                "alt": "",
-                "caption": "2017 photoshopped",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-15"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "1 Alexianenplein, Gent, 9000",
-              "placeId": "ChIJh49Yh0Fxw0cRajHMv_e7C54",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map2",
-          "_anchor": "map2-16"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "FOLLOW ME",
-          "icons": "    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/raymeart/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-17"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>",
-          "text1": "<strong>ADDRESS</strong><br>\nAlexianenplein 1<br>\nGent, &nbsp;9000<br><br>\n<strong>CONTACTS</strong><br>\nEmail: *****@gmail.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Instagram</li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "rayemin96@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-18"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2017 Emin Rayme. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-19"
         }
       ]
     }
